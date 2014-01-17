@@ -1,0 +1,29 @@
+{
+  "name": "xxtea",
+  "version": "0.0.1",
+  "description": "xxtea encription algorithm in pure javascript",
+  "keywords": [
+    "encription",
+    "crypt",
+    "xxtea",
+    "tea",
+    "xtea"
+  ],
+  "homepage": "https://github.com/h0rn3t/xxtea.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h0rn3t/xxtea.git"
+  },
+  "author": {
+    "name": "Eugene Shershen",
+    "email": "vamp.null@gmail.com"
+  },
+  "main": "./lib",
+  "readme": "# node-firebird\n\nPure javascript xxtea encription algorithm for Node.js.\n\n Install\n\n\tnpm install xxtea\n\n## Examples\n\n### decrypt(encrypt('dfsdfsdfsdf','password'),'password') \n\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": https://github.com/h0rn3t/xxtea/issues"
+  },
+  "_id": "xxtea@0.0.1",
+  "_from": "xxtea@"
+}
