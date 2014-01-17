@@ -1,6 +1,6 @@
 ## xxtea
 
-Pure javascript xxtea encription algorithm for Node.js.\n\n
+Pure javascript xxtea encryption algorithm for Node.js.\n\n
 Install\n\n\t
 npm install xxtea\n\n
 
