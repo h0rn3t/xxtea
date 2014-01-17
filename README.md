@@ -1,4 +1,4 @@
-\n\n xxtea
+## xxtea
 
 Pure javascript xxtea encription algorithm for Node.js.\n\n
 Install\n\n\t
