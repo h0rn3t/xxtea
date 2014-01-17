@@ -1,6 +1,6 @@
 {
   "name": "xxtea",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "xxtea encription algorithm in pure javascript",
   "keywords": [
     "encription",
