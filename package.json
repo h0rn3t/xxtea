@@ -22,7 +22,7 @@
   "readme": "# node-firebird\n\nPure javascript xxtea encription algorithm for Node.js.\n\n Install\n\n\tnpm install xxtea\n\n## Examples\n\n### decrypt(encrypt('dfsdfsdfsdf','password'),'password') \n\n",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": https://github.com/h0rn3t/xxtea/issues"
+    "url": "https://github.com/h0rn3t/xxtea/issues"
   },
   "_id": "xxtea@0.0.1",
   "_from": "xxtea@"
