@@ -2,7 +2,7 @@
   "name": "xxtea",
   "version": "0.1.1",
   "dist-tags": { "latest": "0.1.1" },
-  "versions": { "0.1.1", "0.1.0"}
+  "versions": { "0.1.1", "0.1.0"},
   "description": "xxtea encription algorithm in pure javascript",
   "keywords": [
     "encription",
