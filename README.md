@@ -2,7 +2,7 @@
 
 [![npm download](https://img.shields.io/npm/dm/xxtea.svg)](https://www.npmjs.com/package/xxtea)
 [![npm version](https://img.shields.io/npm/v/xxtea.svg)](https://www.npmjs.com/package/xxtea)
-[![License](https://img.shields.io/npm/l/xxtea.svg)](http://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/npm/l/xxtea-node.svg)](http://opensource.org/licenses/MIT)
 
 
 Pure javascript xxtea encryption algorithm for Node.js.
