@@ -1,8 +1,9 @@
 {
   "name": "xxtea",
   "version": "0.1.2",
+  "license": "MIT",
   "dist-tags": { "latest": "0.1.2" },
-  "versions": [ "0.1.2"],
+  "versions": [ "0.1.2", "0.1.1"],
   "description": "xxtea encription algorithm in pure javascript",
   "keywords": [
     "encription",
