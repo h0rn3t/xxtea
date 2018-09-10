@@ -4,9 +4,17 @@
 // with English
 var xxtea = require('./lib/xxtea.js');
 
-data = xxtea.encrypt('Hi!', 'hello');
-console.log(xxtea.decrypt(data, 'hello')); // =>"Hi!"
+// with Eng
+data = xxtea.encrypt('Hi!', 'cryptkey');
+console.log(data);
+console.log(xxtea.decrypt(data, 'cryptkey')); // => "Hi!"
 
 // with Russian
-data = xxtea.encrypt('Привет!', 'hello');
-console.log(xxtea.decrypt(data, 'hello')); // =>"�D<65F%"
+data = xxtea.encrypt('Привет!', 'cryptkey');
+console.log(data);
+console.log(xxtea.decrypt(data, 'cryptkey')); // => "Привет!"
+
+// with Russian + Eng
+data = xxtea.encrypt('олололо http://русскийтекст', 'cryptkey');
+console.log(data);
+console.log(xxtea.decrypt(data, 'cryptkey')); // => "Hi!"
