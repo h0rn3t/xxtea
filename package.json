@@ -1,10 +1,10 @@
 {
   "name": "xxtea",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "license": "MIT",
-  "dist-tags": { "latest": "0.2.1" },
-  "versions": [ "0.2.1", "0.2.0", "0.1.2", "0.1.1"],
-  "description": "xxtea encription algorithm in pure javascript",
+  "dist-tags": { "latest": "0.2.2" },
+  "versions": [ "0.2.2","0.2.1", "0.2.0", "0.1.2", "0.1.1"],
+  "description": "xxtea encryption algorithm in pure javascript",
   "keywords": [
     "encription",
     "crypt",
@@ -25,6 +25,6 @@
   "bugs": {
     "url": "https://github.com/h0rn3t/xxtea/issues"
   },
-  "_id": "xxtea@0.2.1",
+  "_id": "xxtea@0.2.2",
   "_from": "xxtea@"
 }

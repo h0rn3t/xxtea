@@ -18,3 +18,9 @@ console.log(xxtea.decrypt(data, 'cryptkey')); // => "Привет!"
 data = xxtea.encrypt('олололо http://русскийтекст', 'cryptkey');
 console.log(data);
 console.log(xxtea.decrypt(data, 'cryptkey')); // => "Hi!"
+
+
+// with Russian + Eng + China
+data = xxtea.encrypt('олололо http://русскийтекст 试验', 'cryptkeycryptkey');
+console.log(data);
+console.log(xxtea.decrypt(data, 'cryptkeycryptkey')); // => "Hi!"
