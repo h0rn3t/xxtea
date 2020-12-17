@@ -1,5 +1,5 @@
 var fs = require("fs");
-var xxtea = require("./xxtea.js");
+var xxtea = require("./lib/xxtea.js");
 
 function test1(e) {
     var key = Buffer.from("xteaKeyValue0123456789ABCDEF");
@@ -54,6 +54,6 @@ function test2() {
     }
 }
 
-test1(true);
-test1(false);
-// test2();
+//test1(true);
+//test1(false);
+ test2();
